@@ -5,6 +5,14 @@ Facebook: Rezwanul islam Bondhon
 Instagram: bondhon_342
 '''
 
+
+'''
+code is not work properly
+Key Error Name:assets
+Date:27/10/2020
+'''
+
+
 from pytube import YouTube
 from tkinter.filedialog import*
 from tkinter.messagebox import*
